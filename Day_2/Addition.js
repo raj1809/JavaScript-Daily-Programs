@@ -12,7 +12,6 @@ function addNumbers() {
   rl.question('Please enter the first number: ', function(input1) {
     // Convert the input to a number
     const num1 = parseFloat(input1);
-
     // If the input is not a valid number, show an error message
     if (isNaN(num1)) {
       console.log('Please enter a valid number for the first input.');
