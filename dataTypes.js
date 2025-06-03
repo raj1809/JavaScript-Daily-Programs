@@ -20,6 +20,7 @@
 // Numbers:
 let length = 15
 let height = 1.8
+let breadth = 1.0
 
 // Strings:
 let name = "King"
